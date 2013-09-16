@@ -16,7 +16,7 @@ Creates screenshots of a given url in different sizes and saves them inside the 
 reshot www.google.com
 ```
 
-=> creates
+creates
 
 ```
 www_google_com_320x480.jpeg
