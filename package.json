@@ -39,6 +39,6 @@
   "keywords": [],
   "preferGlobal": "true",
   "bin": {
-    "filesearch" : "lib/reshot.js"
+    "reshot" : "lib/reshot.js"
   }
 }
