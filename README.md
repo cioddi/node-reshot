@@ -2,7 +2,7 @@
 
 responsive screenshot command line tool
 
-Creates screenshots of a given url in different sizes and saves them inside the current working directory.
+Creates screenshots of a given urls website in different sizes and saves them inside the current working directory.
 
 ## installation
 
