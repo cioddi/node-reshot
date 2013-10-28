@@ -4,6 +4,11 @@ responsive screenshot command line tool
 
 Creates screenshots of a given urls website in different sizes and saves them inside the current working directory.
 
+
+![npm badge](https://nodei.co/npm/reshot.png)
+
+![npm download stats](https://nodei.co/npm-dl/reshot.png)
+
 ## installation
 
 ```
